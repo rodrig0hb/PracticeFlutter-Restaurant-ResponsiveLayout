@@ -1,7 +1,7 @@
 # 🍽️ App de Restaurante Popular - BomPrato
 
 <p align="center">
-  <img src="assets/images/app.png" width="360">
+  <img src="assets/images/app.png" width="1044">
 </p>
 
 Desenvolvido como parte da trilha de aprendizado em **Flutter** da **Alura**, o **Restaurante BomPrato** é um aplicativo mobile moderno projetado para oferecer uma experiência de pedido fluida e intuitiva. O projeto foca em um **layout responsivo**, garantindo que a interface se ajuste perfeitamente tanto em modo retrato quanto em modo paisagem. Para isso utiliza: 
